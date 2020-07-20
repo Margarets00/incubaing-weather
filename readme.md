@@ -54,7 +54,7 @@ api문서에서 각 도시로 설정하는 방법이 나와있어요. 각 해당
 
 https://openweathermap.org/api 로 들어가서 회원가입 한 후 
 
-![image-20200721023701112](C:\Users\min01\AppData\Roaming\Typora\typora-user-images\image-20200721023701112.png)
+![image-20200721023701112](./public/api.png)
 
 동그라미친 해당 Api를 사용하면 되요!
 
